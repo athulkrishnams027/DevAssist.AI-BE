@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevassistBackendApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(DevassistBackendApplication.class, args);
 	}
 
